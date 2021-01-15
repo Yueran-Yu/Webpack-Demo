@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_demo_1=self.webpackChunkwebpack_demo_1||[]).push([[958],{958:(e,l,o)=>{"use strict";function s(){console.log("This is the lazy loading module.")}o.r(l),o.d(l,{default:()=>s})}}]);
