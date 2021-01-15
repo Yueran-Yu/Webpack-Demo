@@ -6,3 +6,4 @@ rm -rf dist;
 git add . &&
 git commit -m "update branch deploy" &&
 git push
+git checkout -
